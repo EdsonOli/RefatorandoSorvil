@@ -12,6 +12,9 @@ namespace Sorvil.Models
         public DbSet<Card> Cards { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Author> Authors { get; set; }
+        public DbSet<Saga> Sagas { get; set; }
+        public DbSet<Persona> Personas { get; set; }
+        public DbSet<Tale> Tales { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

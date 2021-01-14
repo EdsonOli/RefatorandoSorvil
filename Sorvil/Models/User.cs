@@ -14,6 +14,7 @@ namespace Sorvil.Models
         public string Password { get; set;}
         public bool Administrator { get; set;}
         public List<MyBook> Bookcase { get; set; }
+        public List<Tale> Tales { get; set; }
         public DateTime RegistrationDate { get; set; }
 
     }

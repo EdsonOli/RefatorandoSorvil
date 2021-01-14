@@ -179,3 +179,8 @@ C:\Users\edso0\source\repos\Sorvil\Sorvil\obj\Debug\net5.0\Razor\Views\Cards\Del
 C:\Users\edso0\source\repos\Sorvil\Sorvil\obj\Debug\net5.0\Razor\Views\Cards\Details.cshtml.g.cs
 C:\Users\edso0\source\repos\Sorvil\Sorvil\obj\Debug\net5.0\Razor\Views\Cards\Edit.cshtml.g.cs
 C:\Users\edso0\source\repos\Sorvil\Sorvil\obj\Debug\net5.0\Razor\Views\Cards\Index.cshtml.g.cs
+C:\Users\edso0\source\repos\Sorvil\Sorvil\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\edso0\source\repos\Sorvil\Sorvil\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\edso0\source\repos\Sorvil\Sorvil\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\edso0\source\repos\Sorvil\Sorvil\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\edso0\source\repos\Sorvil\Sorvil\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
